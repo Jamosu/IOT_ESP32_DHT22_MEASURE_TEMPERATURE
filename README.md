@@ -71,12 +71,7 @@ Trong thời đại công nghệ số, việc giám sát nhiệt độ và độ
 
 ### 🖼️ Hình ảnh sơ đồ mạch (thiết kế Wokwi)
 
-![Mạch mô phỏng trên Wokwi](images/wokwi-diagram.png)
-
-> 💡 Để thêm ảnh, bạn hãy đặt hình ảnh trong thư mục `images/` của dự án và dùng cú pháp:
-> ```markdown
-> ![Mô tả hình](images/ten-hinh.png)
-> ```
+![Mạch mô phỏng trên Wokwi](images/Dashboard Adafruit.png)
 
 ---
 
