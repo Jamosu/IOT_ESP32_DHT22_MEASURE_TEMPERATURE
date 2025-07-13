@@ -157,7 +157,7 @@ Hệ thống sử dụng **Random Forest Regressor** để dự đoán nhiệt �
 
 ### 1. Giao diện thiết bị ngoài đời 
 
-![Dashboard Adafruit]()
+![Dashboard Adafruit](Video_Demo.mp4)
 
 ### 2. Giao diện tin nhắn Telegram
 
@@ -165,7 +165,7 @@ Hệ thống sử dụng **Random Forest Regressor** để dự đoán nhiệt �
 
 ### 3. Giao diện trên adafruit io
 
-![Mạch thực tế](images/ada.jpg)
+![Mạch thực tế](images/adafruit-dashboard.png)
 
 ---
 
