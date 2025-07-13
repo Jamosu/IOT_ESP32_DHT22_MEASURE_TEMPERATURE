@@ -168,15 +168,11 @@ Hệ thống sử dụng **Random Forest Regressor** để dự đoán nhiệt �
 
 ![Telegram Alert](images/telegram-alert.png)
 
-### 3. Mạch đấu nối thực tế
+### 3. Giao diện trên adafruit io
 
-![Mạch thực tế](images/mach-that.jpg)
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+![Mạch thực tế](images/ada.jpg)
 
 ---
+
+
 
