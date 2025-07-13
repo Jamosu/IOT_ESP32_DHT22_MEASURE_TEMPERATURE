@@ -13,7 +13,7 @@ Trong thời đại công nghệ số, việc giám sát nhiệt độ và độ
 
 ---
 
-## 👨‍🏫 Thành viên & Hướng dẫn
+## 👨‍🏫 Thành viên 
 
 | Họ và Tên        | MSSV      |
 |------------------|-----------|
