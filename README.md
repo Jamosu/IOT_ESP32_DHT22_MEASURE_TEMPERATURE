@@ -71,7 +71,7 @@ Trong thời đại công nghệ số, việc giám sát nhiệt độ và độ
 
 ### 🖼️ Hình ảnh sơ đồ mạch (thiết kế Wokwi)
 
-![Mạch mô phỏng trên Wokwi](images/Dashboard Adafruit.png)
+![Mạch mô phỏng trên Wokwi](images/Dashboard_Adafruit.png)
 
 ---
 
@@ -155,9 +155,9 @@ Hệ thống sử dụng **Random Forest Regressor** để dự đoán nhiệt �
 
 ## 📷 Một số hình ảnh thực tế
 
-### 1. Giao diện Dashboard Adafruit
+### 1. Giao diện thiết bị ngoài đời 
 
-![Dashboard Adafruit](images/adafruit-dashboard.png)
+![Dashboard Adafruit]()
 
 ### 2. Giao diện tin nhắn Telegram
 
